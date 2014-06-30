@@ -1,0 +1,6 @@
+To generate GMT XML timestamps navigate to SecretSalesTask directory and run php index.php
+To parse an xml file run php index.php -p /path/to/file.xml
+Generated XML files are stored in the data directory depending on which service you request it will either be stored in GMT/PST folder
+
+
+Always remember to clear the cache at cache/classpaths.cache if you move the folder of the application to another location
