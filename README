@@ -1,3 +1,4 @@
+
 Secretsales.com Developer Task
 ￼Please follow the instructions below and send us your code once you’ve finished.
 We want to see how you structure the code in files, classes and methods; how you solve the problem and how you present the code to us and the user within a browser or on the command line.
@@ -9,6 +10,8 @@ The program must also be able to parse XML in that format and generate a second 
 We must be able to run these steps separately.
 Remember, you need to solve the problem but also show us your knowledge of professional PHP coding and OOP. The code must be written to production standard – the kind of thing you’d expect from anyone you work with. And it has to run first time.
 
+
+Solution
 To generate GMT XML timestamps navigate to SecretSalesTask directory and run php index.php
 To parse an xml file run php index.php -p /path/to/file.xml
 Generated XML files are stored in the data directory depending on which service you request it will either be stored in GMT/PST folder
